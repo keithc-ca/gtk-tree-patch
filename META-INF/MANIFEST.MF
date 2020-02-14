@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Automatic-Module-Name: gtk-fix
+Bundle-ManifestVersion: 2
+Bundle-Name: Gtk-fix
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-SymbolicName: gtk-tree-patch
+Bundle-Version: 1.0.0.qualifier
+Require-Bundle: org.eclipse.swt;bundle-version="3.113.0"
